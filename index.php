@@ -19,7 +19,7 @@ while (ob_get_level()) ob_end_clean();
 // -------------------------------------------------------------------
 // 2. Configuration – CHANGE THESE
 // -------------------------------------------------------------------
-$SOURCE = "https://zum-framing-lewis-aaa.trycloudflare.com";   // your tunnel URL (no trailing slash)
+$SOURCE = "https://usb-pos-learning-looks.trycloudflare.com";   // your tunnel URL (no trailing slash)
 $UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36";
 $PLAYLIST_FILE = "live.m3u8";                                  // main playlist relative to SOURCE
 
